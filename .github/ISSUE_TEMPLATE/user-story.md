@@ -1,6 +1,6 @@
 ---
-name: Hello
-about: Suggest an idea for this project
+name: User Story
+about: This template defines a user story
 title: ''
 labels: ''
 assignees: ''
@@ -19,5 +19,3 @@ assignees: ''
     Given [some context]
     When [certain action is taken]
     Then [the outcome of action is observed]
-**Additional context**
-Add any other context or screenshots about the feature request here.
