@@ -4,4 +4,4 @@
 <h3 align="center"><b>As part of the activities required to obtain the IBM Fullstack JavaScript Developer Certification, I had to develop a web application with React, Node.js, Express and MongoDb</b></h3>
 <!--  -->
 
-![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/alejandro99apple/backend-nodejs-capstone/blob/main/landing%20page.png)
+![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/alejandro99apple/fullstack-capstone-project/blob/main/landing_page.png)
